@@ -1,0 +1,7 @@
+recording id,timestamp [ns],name,type
+49cf4e8b-0a47-4fa0-be7b-b917740e47aa,1711465897768000000,recording.begin,recording
+49cf4e8b-0a47-4fa0-be7b-b917740e47aa,1711465941351598000,takeoff.start,cloud
+49cf4e8b-0a47-4fa0-be7b-b917740e47aa,1711466034805069000,takeoff.end,cloud
+49cf4e8b-0a47-4fa0-be7b-b917740e47aa,1711466240658693000,landing.start,cloud
+49cf4e8b-0a47-4fa0-be7b-b917740e47aa,1711466328169321000,landing.end,cloud
+49cf4e8b-0a47-4fa0-be7b-b917740e47aa,1711466365599000000,recording.end,recording
