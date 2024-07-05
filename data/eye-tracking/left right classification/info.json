@@ -1,0 +1,39 @@
+{
+    "android_device_id": "f858df347e8f33f0",
+    "android_device_model": "NE2213EEA",
+    "android_device_name": "Neon Companion",
+    "app_version": "2.7.10-prod",
+    "calib_version": 1,
+    "data_format_version": "2.2",
+    "duration": 19167000000,
+    "firmware_version": [
+        24,
+        8
+    ],
+    "frame_id": "1",
+    "frame_name": "Just act natural",
+    "gaze_frequency": 200,
+    "gaze_offset": [
+        0.0,
+        0.0
+    ],
+    "module_serial_number": "319236",
+    "os_version": "14",
+    "pipeline_version": "2.6.0",
+    "recording_id": "9d2fe463-2d08-476c-9ba8-57d06914e18b",
+    "start_time": 1706548526297000000,
+    "template_data": {
+        "data": {
+            "f5c332a6-b568-435e-92a8-fb5d82a4fe80": [
+                ""
+            ]
+        },
+        "id": "2b7eab9d-5c5f-4e55-bbcb-e37820244b34",
+        "recording_name": "2024-01-29_12:15:26",
+        "version": "2023-06-07T15:20:20.369817Z"
+    },
+    "wearer_id": "68a37092-8099-4183-89ec-d261e4694853",
+    "wearer_ied": 63.0,
+    "wearer_name": "Sofiia",
+    "workspace_id": "0964c5cb-4126-4905-8814-f4309c6f2a2b"
+}
